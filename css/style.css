@@ -200,7 +200,7 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: rgba(133, 100, 4, 1) !important;
   }
 
   .text-primary {
